@@ -4,7 +4,7 @@ Java Servlet-based REST API for managing customers and orders.
 
 ## Features
 - Add, update, delete, and get all customers
-- Create, update, and read orders
+- Create, update, delete and read orders
 - Fetch customer + order + product details
 - JSON API using Gson
 - MySQL relational database
